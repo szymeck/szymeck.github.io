@@ -22,7 +22,6 @@ const pageTransition = function(){
 allSections.addEventListener('click', (e) =>{
     const id = e.target.dataset.id;
     if(id){
-        
         sections.forEach((section)=>{
             section.classList.remove('active')
         })
@@ -52,4 +51,7 @@ document.addEventListener( 'DOMContentLoaded', function() {
       splide.mount();
     
 } );
+
+
+
 
