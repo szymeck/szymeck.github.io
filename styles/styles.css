@@ -1422,7 +1422,7 @@ section {
     padding-left: 1rem;
     padding-right: 1rem;
   }
-  .contact-info .contact-item p span {
-    display: block !important;
+  .contact-info .contact-item p  {
+    font-size: 15px;
   }
 }/*# sourceMappingURL=styles.css.map */
