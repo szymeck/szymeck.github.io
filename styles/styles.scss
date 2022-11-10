@@ -1301,6 +1301,7 @@ section{
     .splide__slide{
         img{
             object-fit:cover;
+            min-height:430px;
         }
         .proj1{
             opacity: 0.8;
