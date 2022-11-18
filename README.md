@@ -1,2 +1,2 @@
 # szymeck.github.io
-It's my portfolio, most complex project so far.
+It's my first portfolio.
