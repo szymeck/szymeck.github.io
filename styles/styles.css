@@ -890,7 +890,7 @@ section {
   opacity: 1 !important;
 }
 .splide__slide img {
-  margin: 1rem 2rem;
+  margin: 1rem 0;
   max-width: 100%;
   min-height: 530px;
   -o-object-fit: cover;
